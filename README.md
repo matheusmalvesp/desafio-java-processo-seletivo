@@ -18,4 +18,8 @@ um controle de fluxo onde:
 **Case 3:** Agora é hora de imprimir a lista dos candidatos selecionados para disponibilizar para o RH entrar em contato.
 
 **Case 4:** O RH deverá realizar uma ligação com no máximo 03 tentativas para cada candidatos e caso o canditato atenda, deve-se imprimir
+<<<<<<< HEAD
 * **"CONSEGUIMOS CONTATO COM [CANDIDATO] APÓS [TENTATIVAS] TENTATIVAS.**
+=======
+* **"CONSEGUIMOS CONTATO COM [CANDIDATO] APÓS [TENTATIVAS] TENTATIVAS.**
+>>>>>>> refs/remotes/origin/main
